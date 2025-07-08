@@ -10,7 +10,7 @@ def show_res(res):
     print(res[3], end=" | ")
     print(res[4], end=" | ")
     print(res[5])
-    print(res[6], end=" | ") # eofheojrhouhnoerhuof
+    print(res[6], end=" | ")
     print(res[7], end=" | ")
     print(res[8])
 
