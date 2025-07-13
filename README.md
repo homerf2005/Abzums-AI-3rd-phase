@@ -1,5 +1,5 @@
 # Abzums-AI-assignment
-Assignments and related projects and pamphlets by Homer Fakouri for 1st Abzums-AI program, part 3.
+A repository for uploading Assignments and related projects and pamphlets by Homer Fakouri for 1st Abzums-AI program, part 3. Taught by some student lecturers in Summer 2025
 
 ***Note:*** HW1 > Homework 1
 
