@@ -1,0 +1,17 @@
+#Assignment 8: Data Visualization
+
+Course: AbzumsAI Programming 1404
+
+Instructor: Mr. Ali Mohammadzadeh Shabestari
+
+Date Assigned: August 4, 2025
+
+--------------------------------------------
+Please complete the Data Visualization exercise in Kaggle:
+https://www.kaggle.com/learn/data-visualization
+
+And upload the certification.
+
+Notes:
+1- You need to create an account in Kaggle first.
+2- You might need to use a VPN to access the website.
